@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /dependencies/
+Disallow: /media/
+Sitemap: https://tiendattttt.github.io/SEO/sitemap.xml
